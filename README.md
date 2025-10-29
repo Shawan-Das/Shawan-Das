@@ -39,8 +39,8 @@
 
 ### 🔥 Contributions & Activity
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shawan-Das&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shawan-Das&theme=tokyo-night)
+![Streak Stats](https://streak-stats.demolab.com?user=Shawan-Das&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shawan-Das&theme=tokyo-night&hide_border=true)
 
 ---
 
