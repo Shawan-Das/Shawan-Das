@@ -40,6 +40,11 @@
 
 ---
 
+### 🔥 Contributions & Streak
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shawan-Das&theme=tokyonight)
+
+
 ### 🎯 What I’m Focusing On
 
 - 🚀 Building ERP projects  
