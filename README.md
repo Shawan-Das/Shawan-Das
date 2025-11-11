@@ -24,7 +24,7 @@
 ### 🛠️ Skills & Technologies
 
 - **Frontend:** Angular, HTML, CSS, JavaScript, Bootstrap  
-- **Backend:** Node.js, Go (Golang)  
+- **Backend:** Python, Node.js, Go (Golang)  
 - **Database:** PostgreSQL, MySQL, Supabase  
 - **Tools:** Git, VS Code, Postman, Swagger
 
