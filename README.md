@@ -5,6 +5,7 @@
 **Software Engineer · Bangladesh**
 
 [![Email](https://img.shields.io/badge/mailme.shawandas@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:mailme.shawandas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawan-das-545a08185/)
 [![Portfolio](https://img.shields.io/badge/shawan--das.tech-0d1117?style=flat-square&logo=About.me&logoColor=white)](https://shawan-das.tech)
 [![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shaw0n.das/)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_shawandas/)
